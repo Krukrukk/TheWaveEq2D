@@ -5,21 +5,21 @@
 
 Mathematical model of the wave equation 2-dimension
 
-![1](1.PNG)
+![1](doc/1.PNG)
 This is a time- and space-dependent problem
 
 Introduce a grid in space-time
-![2](2.PNG)
+![2](doc/2.PNG)
 
 Central difference approximations
 
-![3](3.PNG)
+![3](doc/3.PNG)
 
-![4](4.PNG)
+![4](doc/4.PNG)
 
 ## Solution
 
-![](theWaveEq2D.gif)
+![sol1](doc/theWaveEq2D.gif)
 
 
 ## Bibliography
