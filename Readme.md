@@ -21,13 +21,13 @@ Central difference approximations
 
 Example when:
 
-	-	we start in the corner
+- we start in the corner
 
 ![sol1](doc/theWaveEq2D_1.gif)
 
-	-	we start in the middle
+- we start in the middle
 
-![sol2](doc/theWaveEq2D_2.gif)
+![sol2](doc/TheWaveEq2D_2.gif)
 
 ## Bibliography
 **Author:** *Knut_Andreas_Lie*
