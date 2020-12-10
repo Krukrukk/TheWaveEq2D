@@ -19,8 +19,15 @@ Central difference approximations
 
 ## Solution
 
-![sol1](doc/theWaveEq2D.gif)
+Example when:
 
+	-	we start in the corner
+
+![sol1](doc/theWaveEq2D_1.gif)
+
+	-	we start in the middle
+
+![sol2](doc/theWaveEq2D_2.gif)
 
 ## Bibliography
 **Author:** *Knut_Andreas_Lie*
